@@ -1,0 +1,1 @@
+Ubhara Lost Item adalah project website pencarian barang hilang dalam lingkungan mahasiswa Universitas Bhayangkara yang dibuat dalam rangka mengikuti lomba web development yang diselenggarakan oleh UKM DSC UBHARA
